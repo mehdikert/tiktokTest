@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "userName": "john_doe",
+        "hashtags": [
+            "reactjs",
+            "frontend",
+            "webdev"
+        ],
+        "videoUrl": "https://example.com/john_doe_video.mp4",
+        "thumbnail": "https://example.com/john_doe_thumbnail.jpg"
+    }
+]
